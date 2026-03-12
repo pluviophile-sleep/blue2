@@ -1,3 +1,4 @@
 It's sunny day.
 cat
 dog
+pain is temporary
